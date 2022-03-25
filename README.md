@@ -31,13 +31,27 @@
 - rrb: Move all the numbers of the stack b 1 position down, do the last number goes to the top of the stack.
 - rrr: Does rra and rrb.
 
+## 🔥 Usage 🔥
+
+#### To execute de `push_swap` program you will to do it like this:
+
+#### `./push_swap "numbers separated by spaces"`
 
 
-### 💣 Examples 💣
+## 💣 Examples 💣
+
+#### Here is an example of executing the push_swap program:
 
 <p align="center">
   <a align="center">
-    <img src="./Addings/example.png">
+    <img src="./Addings/ps.png">
   </a>
 </p>
 
+## 💯 Mark 💯
+
+<p align="center">
+  <a align="center">
+    <img src="./Addings/Mark.png">
+  </a>
+</p>
