@@ -5,7 +5,7 @@
 ## 📚 Mandatory Part 📚
 
 - **Name of the program** : `push_swap`
-- **Files** : [`*.c`](./src) [`fdf.h`](./include) [`Makefile`](./Makefile)
+- **Files** : [`*.c`](./src) [`push_swap.h`](./include) [`Makefile`](./Makefile)
 - **Makefile rules** : `all` `clean` `fclean` `re`
 - **Authorized functions** : [`read`](https://man7.org/linux/man-pages/man2/read.2.html) [`write`](https://man7.org/linux/man-pages/man2/write.2.html) [`malloc`](https://man7.org/linux/man-pages/man3/free.3.html) [`free`](https://man7.org/linux/man-pages/man3/free.3.html) [`exit`](https://www.tutorialspoint.com/c_standard_library/c_function_exit.htm)
 - [**Libft**](https://github.com/Zsolt42/Libft) **authorized**.
